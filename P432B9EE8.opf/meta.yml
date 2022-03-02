@@ -1,0 +1,13 @@
+id: P432B9EE8
+initial_creation_type: input
+source_metadata:
+  title: Khaḍgaviṣāṇasūtra
+  language: pi
+  volumes:
+    d0a1b46edfbf4092939bf311b8776d97:
+      title: Complete text
+      base_file: Complete text.txt
+      work_id: W4B05B442
+  chapter_to_tile: {}
+created_at: '2022-03-02T08:55:57.969959'
+last_modified_at: '2022-03-02T08:55:57.969968'
